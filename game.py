@@ -6,3 +6,5 @@ b=10
 c=a+b
 print(c)
 d=2
+e=45
+se=11
